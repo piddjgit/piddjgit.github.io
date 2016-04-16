@@ -1,0 +1,430 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.10",
+    "versionPublish": "2.10",
+    "name": "GCDW>INFO",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "publishType": "local",
+    "publishPath": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/v2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "graphic communication design university of westminster digital interraction website jason pidd london degree",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#efefef"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#efefef",
+            "hamburgerColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bagcd-logo-128-blacktrans-128x128-52.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Graphic Communication Design Westminster</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"l4.html\">LEVEL 4</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"l5.html\">LEVEL 5</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"l6.html\">LEVEL 6</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"rd.html\">R&amp;D</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/marta2-1600x1080-93.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "MOBIRISE",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>image: Marta Roncelo Olmeda",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "msg-box4",
+          "_customCSS": "h3 {letter-spacing: 1px;}\np {line-height: 25px;}",
+          "_anchor": "msg-box4-7",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/teonafrag-800x540-61.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "<span style=\"font-weight: normal;\">ABOUT THE COURSE</span>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><br>BA (hons) Graphic Communication Design at the University of Westminster</p><p>The course aims to encourage creativity, individuality and personal growth through the study of graphic communication design within a stimulating, secure and well-managed learning environment.</p><p>We place emphasis on the application of our skills to develop ideas and present information in ways that are engaging, meaningful, useful and worthwhile. The range of work on show represents the range and scope of the course, and the diverse range of interests of the students.</p><p><br></p><p>AIMS</p><p>Provide students with a sound design methodology and appropriate range of creative, intellectual and technical skills which are sustainable and transferable within a dynamic professional life</p><p>Enable students to identify, redefine and resolve communication design problems through highly developed critical and reflective judgement</p><p>Enable students to identify emerging opportunities, and gain a range of transferrable skills that allow them to respond to change</p><p>Encourage student self-awareness and confidence in their interaction within their discipline and with the world of work</p><p>Provide students with knowledge and critical understanding of the historical, theoretical, and cultural contexts of their discipline.</p><p><br></p><p>Image: Teona Teodorescu, 2016 graduate identity development.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"l4.html\" data-toolbar=\"-mbrBtnMove\">LEVEL 4</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"l5.html\" data-toolbar=\"-mbrBtnMove\">LEVEL 5</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"l6.html\" data-toolbar=\"-mbrBtnMove\">LEVEL 6</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "James: 'Particle' (L6)",
+                "thumb": "@PROJECT_PATH@/assets/images/jamesparticle-800x540-40-800x540-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jamesparticle-800x540-40.jpg",
+                "active": false
+              },
+              {
+                "caption": "Iris: 'Synopsis' project (L4)",
+                "thumb": "@PROJECT_PATH@/assets/images/irissynopsis-800x540-42-800x540-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/irissynopsis-800x540-42.jpg",
+                "active": false
+              },
+              {
+                "caption": "Patrycja: 'Some Things' project (L4)",
+                "thumb": "@PROJECT_PATH@/assets/images/patrycja-tickets1-800x540-97-800x540-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/patrycja-tickets1-800x540-97.jpg",
+                "active": false
+              },
+              {
+                "caption": "Alexandra: ISTD accepted (L5)",
+                "thumb": "@PROJECT_PATH@/assets/images/alexistd-800x540-54-800x540-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexistd-800x540-54.jpg",
+                "active": false
+              },
+              {
+                "caption": "Saleema: process (L4)",
+                "thumb": "@PROJECT_PATH@/assets/images/saleemaprocessstencil-800x540-22-800x540-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/saleemaprocessstencil-800x540-22.jpg",
+                "active": false
+              },
+              {
+                "caption": "Anastasia: Online Identity (L6)",
+                "thumb": "@PROJECT_PATH@/assets/images/anastasiapi-800x540-24-800x540-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anastasiapi-800x540-24.jpg",
+                "active": false
+              },
+              {
+                "caption": "Degree Show P3 London 2015",
+                "thumb": "@PROJECT_PATH@/assets/images/degshow15-800x540-47-800x540-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/degshow15-800x540-47.jpg",
+                "active": false
+              },
+              {
+                "caption": "work environment",
+                "thumb": "@PROJECT_PATH@/assets/images/workenviromnent-800x540-55-800x540-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/workenviromnent-800x540-55.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-7",
+          "articleLayout": false
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "image2-7",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sha-chernelle-grilli-1600x1080-48.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Xuan Phan / Chernelle Vaughan<br>Grilli Type project"
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_customCSS": "h2 {letter-spacing: 1px;}",
+          "_anchor": "form1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "<span style=\"font-weight: normal;\">CONTACT</span>",
+          "form": {
+            "action": "piddj@westminster.ac.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_customCSS": "h3 {letter-spacing: 1px;}",
+          "_anchor": "social-buttons2-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "<span style=\"font-weight: normal;\">FOLLOW US</span>",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/uow-logo-aw-final-black-119h-503x119-21.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<p><strong>GRAPHIC COMMUNICATION DESIGN WESTMINSTE</strong><br>\nCourse Leader: Colin Bailey<br><a href=\"mailto: baileyco@westminster.ac.uk\">baileyco@westminster.ac.uk</a></p>",
+          "text2": "",
+          "text3": ""
+        }
+      ]
+    },
+    "l4.html": {
+      "settings": {
+        "meta_descr": "graphic communication design university of westminster digital interraction website jason pidd london degree"
+      },
+      "components": []
+    },
+    "l5.html": {
+      "settings": {
+        "meta_descr": "graphic communication design university of westminster digital interraction website jason pidd london degree"
+      },
+      "components": []
+    },
+    "l6.html": {
+      "settings": {
+        "meta_descr": "graphic communication design university of westminster digital interraction website jason pidd london degree"
+      },
+      "components": []
+    },
+    "rd.html": {
+      "settings": {
+        "meta_descr": "graphic communication design university of westminster digital interraction website jason pidd london degree"
+      },
+      "components": []
+    }
+  }
+}
