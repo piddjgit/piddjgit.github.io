@@ -6444,19 +6444,17 @@ a.list-group-item-danger.active:focus {
 }
 .close {
   float: right;
-  font-size: 10px;
-  font-weight: normal;
+  font-size: 21px;
+  font-weight: bold;
   line-height: 1;
-  color: #fff; /* jason */
-  text-shadow: 0 0px 0 #ffffff;
+  color: #000000;
+  text-shadow: 0 1px 0 #ffffff;
   opacity: 0.2;
   filter: alpha(opacity=20);
-  background-color:rgba(0, 0, 0, 0.1); /* jason */
-  border:0px;
 }
 .close:hover,
 .close:focus {
-  color: #fff; /* jason */
+  color: #000000;
   text-decoration: none;
   cursor: pointer;
   opacity: 0.5;
