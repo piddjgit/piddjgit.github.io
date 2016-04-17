@@ -9,7 +9,7 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/V4"
+    "publishPath": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/V5"
   },
   "pages": {
     "index.html": {
@@ -193,8 +193,8 @@
           },
           "_customCSS": ".close {border:none !important;}\n.carousel-control {border:none !important;}\n.carousel-indicators {visibility:hidden;}\n.mbr-gallery .modal .close .carousel-control {background-color:rgba(0, 0, 0, 0.4) !important;}",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "images": [
               {
                 "caption": "James: 'Particle' (L6)",
@@ -748,6 +748,15 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "17px",
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-17",
           "_params": {
             "parallax": true,
@@ -770,16 +779,7 @@
           },
           "title": "FULL-SCREEN HEADER",
           "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>image: Alexandra Sedo, ISTD creditation",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "17px",
-              "color": "#000000",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -802,6 +802,7 @@
             }
           },
           "_name": "msg-box4",
+          "_customCSS": "h3 {letter-spacing:1px;}\np {line-height:25px;}",
           "_anchor": "msg-box4-15",
           "_params": {
             "paddingTop": 3,
@@ -846,13 +847,20 @@
           "title": "<span style=\"font-weight: normal;\">LEVEL 5</span>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Level Five modules require a greater degree of independent study, and an ability to support and develop project work with research, analysis and selection.</p><p>They encourage personal awareness and reflection, and offer a degree of choice and selection of project options and media outcomes.</p><p>Project work presented here features the representation of data relating to student’s activities and interests across a range of topics, such as: social networks; musical tastes; leisure and social activities; travel; and, eating and drinking activities.</p><p>Level 5 also introduces students to 'live' projects set by external organisations as such as The International Society of Typographic Designers and the Design Museum. In 2016 our student Alejandra Sedo was acredited by the ISDT, a highly regardded achievement.</p><p>The level continues to callenge the students to resspond to briefs with solid academic and thematic research and continues to emphasise the importance of intial visual exploration before the implementation that may lead towards further developed abilities and understangings of design applications and environments that may include the industry standard design tools and digital environments, examples being the use of code via Processing or physical computing and Arduino.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_customCSS": "h3 {letter-spacing:1px;}\np {line-height:25px;}"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_name": "slider2",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000",
+              "font-size": "17px"
+            }
+          },
           "_params": {
             "autoplay": false,
             "slides": [
@@ -915,28 +923,19 @@
             "showBullets": false
           },
           "_anchor": "slider2-19",
-          "articleLayout": true,
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#000000",
-              "font-size": "17px"
-            }
-          }
+          "articleLayout": true
         },
         {
-          "_name": "image1",
-          "_anchor": "image1-21",
+          "_name": "image2",
+          "_anchor": "image2-29",
           "_params": {
             "outside": false,
-            "bgColor": "#252525",
             "showText": true
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/loradolph-1600x1080-18.jpg",
+              "src": "@PROJECT_PATH@/assets/images/loradolph-1600x1080-95.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -949,21 +948,21 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "image Lora Slavova"
+          "text": "image: Lora Slavova"
         },
         {
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header3-23",
           "title": "DROP-DEAD EASY WEBSITE MAKER",
           "_params": {
             "showMeta": false
           },
-          "meta": "By John Smith posted July 30, 2015",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_name": "contacts1",
@@ -1063,11 +1062,19 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-28",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/maidan1-940x720-50.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/paulamast-1600x1080-44.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1084,16 +1091,8 @@
             "showArrow": false
           },
           "title": "FULL-SCREEN HEADER",
-          "text": "<br><br><br><br><br><br><br><br><br>image: Paula Minelgaite",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "font-size": "16px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#e25041"
-            }
-          }
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>image: Paula Minelgaite",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1117,6 +1116,7 @@
             }
           },
           "_name": "msg-box4",
+          "_customCSS": "h3 {letter-spacing:1px;}\np {line-height:25px;}",
           "_anchor": "msg-box4-25",
           "_params": {
             "paddingTop": 3,
@@ -1161,8 +1161,7 @@
           "title": "<span style=\"font-weight: normal;\">LEVEL 6</span>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Level Six modules offer an increased degree of personal choice for the development of independent, high quality work, demonstrating the higher-level challenges of synthesis and innovation. In-depth research and design work is characterized by the ability to analyze, synthesize and apply creatively what has been learnt during the program of study.</p><p><br></p><p>The range of projects undertaken reflects the broad range of interests of the students within the course. They may include: typography and design for print; animation and visual narratives; exhibition and installation design, design for screen and interaction; and, signage, wayfinding, and environmental graphics.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_customCSS": "h3 {letter-spacing:1px;}\np {line-height:25px;}"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_styles": {
@@ -1185,6 +1184,7 @@
             }
           },
           "_name": "msg-box5",
+          "_customCSS": "h3 {letter-spacing: 1px;}\np {line-height:25px;}",
           "_anchor": "msg-box5-29",
           "_params": {
             "paddingTop": 3,
@@ -1193,13 +1193,13 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2016-04-17-at-21-2036x1132-83.png",
             "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.8",
             "overlayColor": "#ffffff",
             "inverse": false,
             "showTitle": true,
@@ -1226,72 +1226,94 @@
           "title": "MERMAID TEARS",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Film sequences featuring abstract shapes and forms that are visually engaging and beautiful, but ultimately deliver a shocking and telling message about one of the threats to our environment. Mermaid Tears conveys thought provoking statistics on the effects of plastic waste in the oceans and its threat to the marine life that inhabit them.</p><p>Ola Liszewska</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_customCSS": "h3 {letter-spacing: 1px;}\np {line-height:25px;}"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
-          "_name": "slider2",
+          "_name": "gallery1",
           "_params": {
-            "autoplay": false,
-            "slides": [
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/maidan10-940x627-36.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br>image: Paula&nbsp;Minelgaite",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/detail2-700x588-48.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br>image: Paula&nbsp;Minelgaite",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/10898293-10153958131738219-315111739819808059-n1-960x662-17.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br>image: Paula&nbsp;Minelgaite",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": true
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dad-poster-bw-600x786-0.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br>image: Paula&nbsp;Minelgaite",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "active": false
               }
             ],
-            "showBullets": false
+            "showText": true,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false
           },
-          "_anchor": "slider2-30",
-          "articleLayout": true,
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "16px"
-            }
-          }
+          "_anchor": "gallery1-27",
+          "articleLayout": false
         },
         {
           "_name": "contacts1",
