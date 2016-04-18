@@ -9,7 +9,7 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/V5"
+    "publishPath": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/v9"
   },
   "pages": {
     "index.html": {
@@ -29,7 +29,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -48,7 +48,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#efefef",
+            "color": "#ffffff",
             "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": true,
@@ -64,7 +64,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -204,9 +204,9 @@
               },
               {
                 "caption": "Iris: 'Synopsis' project (L4)",
-                "thumb": "@PROJECT_PATH@/assets/images/irissynopsis-800x540-42-800x540-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/irissynopsis-800x540-42.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/iris2-800x540-90-800x540-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iris2-800x540-90.jpg",
+                "active": true
               },
               {
                 "caption": "Patrycja: 'Some Things' project (L4)",
@@ -230,16 +230,16 @@
                 "caption": "Anastasia: Online Identity (L6)",
                 "thumb": "@PROJECT_PATH@/assets/images/anastasiapi-800x540-24-800x540-29.jpg",
                 "image": "@PROJECT_PATH@/assets/images/anastasiapi-800x540-24.jpg",
-                "active": true
+                "active": false
               },
               {
-                "caption": "Degree Show P3 London 2015",
+                "caption": "Claire: P3 London 2015 show",
                 "thumb": "@PROJECT_PATH@/assets/images/degshow15-800x540-47-800x540-68.jpg",
                 "image": "@PROJECT_PATH@/assets/images/degshow15-800x540-47.jpg",
                 "active": false
               },
               {
-                "caption": "work environment",
+                "caption": "one area where we work",
                 "thumb": "@PROJECT_PATH@/assets/images/workenviromnent-800x540-55-800x540-61.jpg",
                 "image": "@PROJECT_PATH@/assets/images/workenviromnent-800x540-55.jpg",
                 "active": false
@@ -259,7 +259,7 @@
             "SMALL": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "16px",
+              "font-size": "14px",
               "color": "#000000"
             }
           },
@@ -296,6 +296,9 @@
             ".btn": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-header__text SPAN": {
+              "text-align": "left"
             }
           },
           "_customCSS": "h2 {letter-spacing: 1px;}",
@@ -313,7 +316,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT</span>",
+          "title": "<span style=\"font-weight: normal;\">CONTACT US</span>",
           "form": {
             "action": "piddj@westminster.ac.uk",
             "alerts": {
@@ -341,7 +344,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">send…</a>"
         },
         {
           "_name": "social-buttons2",
@@ -381,7 +384,7 @@
           },
           "_anchor": "contacts1-9",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -422,7 +425,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -441,7 +444,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#efefef",
+            "color": "#ffffff",
             "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": true,
@@ -482,7 +485,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/irismain-1600x1080-97.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/borislav44-1600x1080-71.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -491,15 +494,15 @@
             "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
             "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": false
           },
           "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "<br>image: Iris De Souza",
+          "text": "<br>composition: Borislav NiKolov",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         },
         {
@@ -579,13 +582,13 @@
               "font-size": "16px",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_params": {
             "autoplay": false,
             "paddingTop": "0",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "slides": [
               {
                 "active": false,
@@ -610,6 +613,17 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/irissynopsis-800x540-41.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br>image: Iris De Souza<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/nourago-1600x1080-33.jpg",
                 "contentAlign": "left",
@@ -622,7 +636,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/farahmind.gif",
+                "image": "@PROJECT_PATH@/assets/images/farahgrillirilli-800x540-1.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -632,7 +646,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/waltersdix-1600x1080-82.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
@@ -651,6 +665,31 @@
           "articleLayout": false
         },
         {
+          "_name": "image2",
+          "_anchor": "image2-26",
+          "_params": {
+            "outside": false,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/shaspreadsm-800x540-25.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Xuan Phan 'Some Things–White' project"
+        },
+        {
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -660,7 +699,7 @@
           },
           "_anchor": "contacts1-9",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -701,7 +740,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -720,7 +759,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#efefef",
+            "color": "#ffffff",
             "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": true,
@@ -830,7 +869,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/jairumistd-800x540-61.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jairumistd-800x540-48.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -935,7 +974,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/loradolph-1600x1080-95.jpg",
+              "src": "@PROJECT_PATH@/assets/images/placeholder800-800x540-39.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -948,7 +987,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "image: Lora Slavova"
+          "text": "image: 800x540"
         },
         {
           "_name": "header3",
@@ -974,7 +1013,7 @@
           },
           "_anchor": "contacts1-9",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -1015,7 +1054,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -1034,7 +1073,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#efefef",
+            "color": "#ffffff",
             "hamburgerColor": "#000000",
             "transparent": true,
             "sticky": true,
@@ -1067,14 +1106,14 @@
               "font-size": "16px",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "header1-28",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/paulamast-1600x1080-44.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/paulamnew-1600x1080-85.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1119,8 +1158,8 @@
           "_customCSS": "h3 {letter-spacing:1px;}\np {line-height:25px;}",
           "_anchor": "msg-box4-25",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1160,7 +1199,7 @@
           "headerAlign": "left",
           "title": "<span style=\"font-weight: normal;\">LEVEL 6</span>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Level Six modules offer an increased degree of personal choice for the development of independent, high quality work, demonstrating the higher-level challenges of synthesis and innovation. In-depth research and design work is characterized by the ability to analyze, synthesize and apply creatively what has been learnt during the program of study.</p><p><br></p><p>The range of projects undertaken reflects the broad range of interests of the students within the course. They may include: typography and design for print; animation and visual narratives; exhibition and installation design, design for screen and interaction; and, signage, wayfinding, and environmental graphics.</p>",
+          "text": "<p>Level Six modules offer an increased degree of personal choice for the development of independent, high quality work, demonstrating the higher-level challenges of synthesis and innovation. In-depth research and design work is characterized by the ability to analyze, synthesize and apply creatively what has been learnt during the program of study.</p><p><br></p><p>The range of projects undertaken reflects the broad range of interests of the students within the course. They may include: typography and design for print; animation and visual narratives; exhibition and installation design, design for screen and interaction; and, signage, wayfinding, and environmental graphics.</p><p>Image: Daniele Polombo</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -1187,8 +1226,8 @@
           "_customCSS": "h3 {letter-spacing: 1px;}\np {line-height:25px;}",
           "_anchor": "msg-box5-29",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1223,88 +1262,136 @@
             }
           },
           "headerAlign": "left",
-          "title": "MERMAID TEARS",
+          "title": "<span style=\"font-weight: normal;\">MERMAID TEARS</span>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Film sequences featuring abstract shapes and forms that are visually engaging and beautiful, but ultimately deliver a shocking and telling message about one of the threats to our environment. Mermaid Tears conveys thought provoking statistics on the effects of plastic waste in the oceans and its threat to the marine life that inhabit them.</p><p>Ola Liszewska</p>",
+          "text": "<p>Film sequences featuring abstract shapes and forms that are visually engaging and beautiful, but ultimately deliver a shocking and telling message about one of the threats to our environment. Mermaid Tears conveys thought provoking statistics on the effects of plastic waste in the oceans and its threat to the marine life that inhabit them.</p><p>Designer: Ola Liszewska</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "images": [
               {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "caption": "Anastasia Orfanidou",
+                "thumb": "@PROJECT_PATH@/assets/images/anaocover-800x540-2-800x540-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anaocover-800x540-2.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "caption": "'Online Identity'",
+                "thumb": "@PROJECT_PATH@/assets/images/anaozuk-800x540-55-800x540-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anaozuk-800x540-55.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/anaopo-800x540-7-800x540-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anaopo-800x540-7.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/anaopile-800x540-35-800x540-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anaopile-800x540-35.jpg",
+                "active": false
+              },
+              {
+                "caption": "Mallika Turnalay",
+                "thumb": "@PROJECT_PATH@/assets/images/mal1-800x540-25-800x540-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mal1-800x540-25.jpg",
+                "active": false
+              },
+              {
+                "caption": "'Gestaldt Theory' interaction",
+                "thumb": "@PROJECT_PATH@/assets/images/mal2-800x540-69-800x540-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mal2-800x540-69.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/mal3-800x540-55-800x540-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mal3-800x540-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/mal4-800x540-44-800x540-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mal4-800x540-44.jpg",
+                "active": false
+              },
+              {
+                "caption": "Katherine Vargas",
+                "thumb": "@PROJECT_PATH@/assets/images/kv1-800x540-81-800x540-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kv1-800x540-81.jpg",
+                "active": false
+              },
+              {
+                "caption": "'2.5'",
+                "thumb": "@PROJECT_PATH@/assets/images/kv2-800x540-32-800x540-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kv2-800x540-32.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/kv3-800x540-34-800x540-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kv3-800x540-34.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/800white-800x540-97-800x540-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/800white-800x540-97.jpg",
+                "active": false
+              },
+              {
+                "caption": "Claire Nyquist",
+                "thumb": "@PROJECT_PATH@/assets/images/clairen2-800x540-9-800x540-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clairen2-800x540-9.jpg",
+                "active": false
+              },
+              {
+                "caption": "'Genome'",
+                "thumb": "@PROJECT_PATH@/assets/images/clairen1-800x540-35-800x540-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clairen1-800x540-35.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/clairen3-800x540-9-800x540-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clairen3-800x540-9.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/800white-800x540-87-800x540-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/800white-800x540-87.jpg",
+                "active": false
+              },
+              {
+                "caption": "Paula&nbsp;Minelgaite",
+                "thumb": "@PROJECT_PATH@/assets/images/pm2-800x540-26-800x540-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pm2-800x540-26.jpg",
+                "active": false
+              },
+              {
+                "caption": "'Oh Mai Dan'",
+                "thumb": "@PROJECT_PATH@/assets/images/pmcover-800x540-84-800x540-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pmcover-800x540-84.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/pm4-800x540-38-800x540-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pm4-800x540-38.jpg",
+                "active": false
+              },
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/pm3-800x540-2-800x540-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pm3-800x540-2.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20-800x540-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/placeholder800-800x540-20.jpg",
-                "active": false
               }
             ],
             "showText": true,
@@ -1313,7 +1400,8 @@
             "noGutter": false
           },
           "_anchor": "gallery1-27",
-          "articleLayout": false
+          "articleLayout": false,
+          "_customCSS": ".carousel-indicators {visibility:hidden;}"
         },
         {
           "_name": "contacts1",
@@ -1325,7 +1413,7 @@
           },
           "_anchor": "contacts1-9",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
