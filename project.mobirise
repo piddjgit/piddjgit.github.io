@@ -9,7 +9,9 @@
       "title": "Mobirise"
     },
     "publishType": "local",
-    "publishPath": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/v9"
+    "publishPath": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/v14",
+    "path": "file:///Users/jasonpidd/Documents/GCDweb_Mobirise/v2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -309,7 +311,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -1113,7 +1115,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/paulamnew-1600x1080-85.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/paulamast-1600x1080-56.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1269,6 +1271,7 @@
         },
         {
           "_name": "gallery1",
+          "_customCSS": ".carousel-indicators {visibility:hidden;}",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -1341,9 +1344,9 @@
               },
               {
                 "caption": "",
-                "thumb": "@PROJECT_PATH@/assets/images/800white-800x540-97-800x540-14.jpg",
-                "image": "@PROJECT_PATH@/assets/images/800white-800x540-97.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/saleema1-1600x1080-87-1600x1080-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/saleema1-1600x1080-87.jpg",
+                "active": true
               },
               {
                 "caption": "Claire Nyquist",
@@ -1364,9 +1367,9 @@
                 "active": false
               },
               {
-                "caption": "",
-                "thumb": "@PROJECT_PATH@/assets/images/800white-800x540-87-800x540-6.jpg",
-                "image": "@PROJECT_PATH@/assets/images/800white-800x540-87.jpg",
+                "caption": "Lora Slavova",
+                "thumb": "@PROJECT_PATH@/assets/images/loradolph-1600x1080-15-1600x1080-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/loradolph-1600x1080-15.jpg",
                 "active": false
               },
               {
@@ -1389,9 +1392,9 @@
               },
               {
                 "caption": "",
-                "thumb": "@PROJECT_PATH@/assets/images/pm3-800x540-2-800x540-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pm3-800x540-2.jpg",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/paulamnew-1600x1080-4-1600x1080-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paulamnew-1600x1080-4.jpg",
+                "active": false
               }
             ],
             "showText": true,
@@ -1400,8 +1403,7 @@
             "noGutter": false
           },
           "_anchor": "gallery1-27",
-          "articleLayout": false,
-          "_customCSS": ".carousel-indicators {visibility:hidden;}"
+          "articleLayout": false
         },
         {
           "_name": "contacts1",
